@@ -3,10 +3,10 @@ name: Crypto Forecasting MLOps Pipeline
 on: 
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
     e2e_crypto_mlops_workflow:
