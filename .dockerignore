@@ -8,6 +8,5 @@ dist/
 .coverage
 htmlcov/
 .dockerignore
-README.md
 Dockerfile
 compose.yml
