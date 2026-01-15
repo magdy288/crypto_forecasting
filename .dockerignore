@@ -1,0 +1,13 @@
+.git/
+__pycache__/
+.venv/
+dist/
+*.egg-info/
+.env
+.vscode/
+.coverage
+htmlcov/
+.dockerignore
+README.md
+Dockerfile
+compose.yml
